@@ -25,7 +25,7 @@ public class ExceptionTask {
          int b = 0;
          int c = a / b; //divide by zero
          System.out.println(c);
-     }  catch (ArithmeticException ee) {
+     }  catch (ArithmeticException e) {
             System.out.println("ArthmethicException occured");
      }
      // 3. Null
