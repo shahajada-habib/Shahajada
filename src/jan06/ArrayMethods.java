@@ -9,7 +9,7 @@ public class ArrayMethods {
 
     // method2: return String array
     public String[] method2() {
-        return new String[] {"Alice", "Bob", "Charlie"};
+        return new String[] {"Karim", "Kalachan", "Kuddus"};
     }
 
     // main method to test both
